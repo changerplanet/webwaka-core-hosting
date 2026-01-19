@@ -1,0 +1,16 @@
+{
+  "moduleId": "webwaka-core-hosting",
+  "version": "0.0.0",
+  "class": "core",
+  "name": "Hosting Core",
+  "description": "Deployment & External Runtime - Hosting and infrastructure",
+  "repository": "https://github.com/changerplanet/webwaka-core-hosting",
+  "author": "WebWaka Team",
+  "license": "TBD",
+  "capabilities": [],
+  "dependencies": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js"
+  }
+}
